@@ -1,4 +1,2 @@
-Notes
-=====
-
-A simple script for sorting INI files.
+**Description**  
+A simple Perl script for sorting INI configuration files.
